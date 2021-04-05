@@ -1,10 +1,8 @@
 ### About me
 
-I am a PhD student and research associate at the Research Area Vehicle Intelligence & Automated Driving at the Institute for Automotive Engineering of RWTH Aachen University, Germany.
-
-My topics are safety assurance of Level 4 vehicles and dependability analysis of the perception subsystem. 
-
-Main languages are C++ and Python.
+- 🎓 PhD student and research associate at the Research Area Vehicle Intelligence & Automated Driving at the Institute for Automotive Engineering of RWTH Aachen University, Germany.
+- 🔬 Research topics: safety assurance of Level 4 vehicles, dependability analysis of the perception subsystem, data fusion and object tracking.
+- 👨‍💻 Main languages are C++ and Python.
 
 
 📫 You can also find me on
@@ -12,7 +10,8 @@ Main languages are C++ and Python.
 - [LinkedIn](https://www.linkedin.com/in/hossmichael/)
 - [ResearchGate](https://www.researchgate.net/profile/Michael-Hoss)
 - [Google Scholar](https://scholar.google.de/citations?user=UhmelWYAAAAJ&hl=en)
-- <p><a href="mailto:michael.hoss@ika.rwth-aachen.de?subject=[GitHub]%20&body=">Email</a></p>
+
+or write an <a href="mailto:michael.hoss@ika.rwth-aachen.de?subject=[GitHub]%20&body=">Email</a>.
 
 
 <!--
