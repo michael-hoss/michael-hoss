@@ -1,6 +1,6 @@
 ### About me
 
-- 🎓 PhD student and research associate at the Research Area Vehicle Intelligence & Automated Driving at the Institute for Automotive Engineering of RWTH Aachen University, Germany.
+- 🎓 PhD student at RWTH Aachen University, Germany.
 - 🔬 Research topics: safety assurance of Level 4 vehicles, dependability analysis of the perception subsystem, data fusion and object tracking.
 - 👨‍💻 Main languages are C++ and Python.
 
