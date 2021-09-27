@@ -11,7 +11,7 @@
 - [ResearchGate](https://www.researchgate.net/profile/Michael-Hoss)
 - [Google Scholar](https://scholar.google.de/citations?user=UhmelWYAAAAJ&hl=en)
 
-or write an <a href="mailto:michael.hoss@ika.rwth-aachen.de?subject=[GitHub]%20&body=">Email</a>.
+or write an <a href="mailto:michael.hoss@rwth-aachen.de?subject=[GitHub]%20&body=">Email</a>.
 
 
 <!--
