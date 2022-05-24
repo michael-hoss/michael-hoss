@@ -1,8 +1,8 @@
 ### About me
 
-- 🎓 PhD student at RWTH Aachen University, Germany.
-- 🔬 Research topics: safety assurance of Level 4 vehicles, dependability analysis of the perception subsystem, data fusion and object tracking.
-- 👨‍💻 Main languages are C++ and Python.
+- 🎓 PhD student
+- :computer: Software engineer
+- 👨‍💻 Main languages are C++ and Python
 
 
 📫 You can also find me on
