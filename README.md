@@ -2,7 +2,6 @@
 
 - 🎓 PhD student
 - :computer: Software engineer
-- 👨‍💻 Main languages are C++ and Python
 
 
 📫 You can also find me on
